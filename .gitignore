@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+data/*.csv
+data/*.tsv
+data/*.zip
+
+*.html
+*.pkl
+*.pickle
