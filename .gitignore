@@ -4,6 +4,8 @@ __pycache__/
 .DS_Store
 .ipynb_checkpoints/
 
+data/Yelp JSON/
+
 *.html
 *.pkl
 *.pickle
